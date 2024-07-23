@@ -59,7 +59,7 @@ In this version of Space Invaders, the player controls a spaceship that moves fr
 
 #### Line Clearing 🧹
 
-- The game must clear complete lines when they are fully filled and adjust the remaining pieces on the board.
+- The game will restart once the previous user finishes their lives or when they win. The moment this happens, it gives way to another player and the aliens will appear randomly again.
 
 ### Non-Functional Requirements ⚙️
 

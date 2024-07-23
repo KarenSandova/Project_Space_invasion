@@ -114,11 +114,10 @@ In this version of Space Invaders, the player controls a spaceship that moves fr
 - **Scoring System – Keeps track of the player's score.
 
 ### Game 🎮
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a51e6280-23d6-4072-be82-3f8371f109c7" width="300" />
-  <img src="https://github.com/user-attachments/assets/3ac3d8d3-fe13-4d2b-9f7b-52d3c89b62dd" width="300" />
-  <img src="https://github.com/user-attachments/assets/b5ccbdf7-9b4c-495d-b63a-5484956e26f9" width="300" />
-</div>
+
+
+![image](https://github.com/user-attachments/assets/4506e0db-dfb8-4dcf-8d88-77a63c7bf172)
+
 
 ### Installation 🛠️
 

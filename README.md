@@ -39,9 +39,7 @@ In this version of Space Invaders, the player controls a spaceship that moves fr
 
 #### Game Controls ⌨️
 
-- The user must be able to move pieces left, right, and down.
-- The user must be able to rotate pieces.
-- The user must be able to pause and resume the game.
+- The user must be able to move the friendly ship from left to right and with the letter space attack
 
 #### Scoring 🏆
 

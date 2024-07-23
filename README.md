@@ -100,7 +100,7 @@ In this version of Space Invaders, the player controls a spaceship that moves fr
 
 #### Security 🔐
 
-- The game should protect user data, especially if there are features for saving high scores or user profiles.
+- The game should protect user data.
 
 ### Requirements 📋
 

@@ -136,10 +136,8 @@ In this version of Space Invaders, the player controls a spaceship that moves fr
 
 ### Game Controls
 
-- **Left Arrow**: Move the piece left.
-- **Right Arrow**: Move the piece right.
-- **Down Arrow**: Accelerate the piece's fall.
-- **Up Arrow**: Rotate the piece.
-- **ctrl**: Pause/Resume the game.
-  
+- **Left arrow**: Move the ship to the left.
+- **Right arrow**: Move the ship to the right.
+- **Space**: shoot.
+-**Enter**: start the game and control the menu.
 

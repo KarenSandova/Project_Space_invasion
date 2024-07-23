@@ -47,8 +47,7 @@ In this version of Space Invaders, the player controls a spaceship that moves fr
 
 #### Game Over 💔
 
-- The game must end when pieces can no longer be placed on the board.
-- At the end of the game, it must display the final score and allow the user to return to the main menu.
+- TThe game will end when the user decides to close the game or when the user manages to eliminate all enemies
 
 #### Levels and Difficulty ⚙️
 

@@ -55,7 +55,7 @@ In this version of Space Invaders, the player controls a spaceship that moves fr
 
 #### Collision Detection 🚧
 
-- The game must detect and handle collisions between pieces and the board edges or between pieces.
+- The game must detect two collisions, when the friendly ship eliminates an alien or when the friendly ship is attacked.
 
 #### Line Clearing 🧹
 

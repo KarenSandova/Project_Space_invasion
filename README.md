@@ -53,10 +53,6 @@ In this version of Space Invaders, the player controls a spaceship that moves fr
 
 - The game may increase difficulty by speeding up the falling pieces as more lines are cleared.
 
-#### Piece Generation 🎲
-
-- The game must continuously generate random pieces (tetrominoes).
-
 #### Collision Detection 🚧
 
 - The game must detect and handle collisions between pieces and the board edges or between pieces.

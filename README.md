@@ -11,7 +11,7 @@
 
 
 #### Description 📜
-Welcome to Tetris in Python! This project is an implementation of the classic Tetris game using Python and Pygame. Below, you will find all the project information.
+Welcome to Space Invaders in Python! This project is an implementation of the classic game Space Invaders using Python and Pygame. Below you will find all the information about the project.
 
 #### Game Overview🕹️
 Tetris is a tile-matching puzzle video game originally designed and programmed by Alexey Pajitnov. The game has been ported in countless versions and this project aims to bring the classic Tetris experience to life using Python and the Pygame library.

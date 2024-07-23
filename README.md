@@ -14,9 +14,11 @@
 Welcome to Space Invaders in Python! This project is an implementation of the classic game Space Invaders using Python and Pygame. Below you will find all the information about the project.
 
 #### Game Overview🕹️
-Tetris is a tile-matching puzzle video game originally designed and programmed by Alexey Pajitnov. The game has been ported in countless versions and this project aims to bring the classic Tetris experience to life using Python and the Pygame library.
+Considered by many experts to be the video game that popularized the industry, Space Invaders was born from the imagination of Toshihiro Nishikado, a young Japanese designer from Taito Corporation, in June 1978. Nishikado, who had already designed (with less significance) Soccer in 1972 –an arcade game very similar to Pong– remembers having been inspired by none other than HG Wells and War of the Worlds by giving its aliens that came down from space an octopus-like appearance, with matching tentacles. The game, which is still perfectly playable 40 years later, is notable in several ways.
 
-In this version of Tetris, the player controls pieces called "tetrominoes," which are shapes made up of four square blocks each. These pieces fall across the playing field and the player must move and rotate them to fit them into complete rows. When a row is completed, it disappears and the player earns points. The game can be sped up by making it more difficult.
+Nishikado designed a very effective proto-narrative game environment based on a very playable and fun interface with all its material limitations (a side-scrolling joystick and two buttons) and working with an 8-bit Intel 8080 microprocessor. created using Python and the Pygame library.
+
+In this version of Space Invaders, the player controls a spaceship that moves from left to right and for each alien he kills the game will accumulate 5 points and loses to the three attacks of the enemy ship, the one who manages to make the most points wins or the Let him kill all the enemies.
 
 ### Functional Requirements 🎯
 

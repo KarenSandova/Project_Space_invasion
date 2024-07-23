@@ -109,10 +109,9 @@ In this version of Space Invaders, the player controls a spaceship that moves fr
 
 ### Features ✨
 
-- **Classic Tetris Game**: Includes traditional Tetris features such as falling pieces, piece rotation, and line clearing.
-- **Intuitive User Interface**: Designed with Pygame for a user-friendly experience.
-- **Pause and Resume**: Players can pause and resume the game.
-- **Scoring System**: Keeps track of the player's score.
+- **Classic Space Invaders game: includes traditional Space Invaders features, such as shooting, alien movements, and spaceship movements.
+- **Intuitive User Interface – Designed with Pygame for an easy-to-use experience.
+- **Scoring System – Keeps track of the player's score.
 
 ### Game 🎮
 <div align="center">

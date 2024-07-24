@@ -35,7 +35,6 @@ In this version of Space Invaders, the player controls a spaceship that moves fr
 #### User Interface 🖥️
 
 - The game must display the current score on the screen during the game.
-- There must be a clear visualization of the game board with pieces (tetrominoes) and empty spaces.
 
 #### Game Controls ⌨️
 

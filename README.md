@@ -153,8 +153,8 @@ The main game loop manages the flow of the game, including event detection, spri
 - **Scoring System – Keeps track of the player's score.
 
 ### Game 🎮
-
-
+![image](https://github.com/user-attachments/assets/821a66e3-219d-4ce8-b337-9f56e3ac4434)
+![WhatsApp Image 2024-07-24 at 05 31 50_f6dc4617](https://github.com/user-attachments/assets/74119719-e99f-48ee-8287-edd91b4d955d)
 
 ### Game Controls
 

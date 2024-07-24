@@ -24,8 +24,8 @@ In this version of Space Invaders, the player controls a spaceship that moves fr
 
 #### Game Start 🚀
 
-- The game must start with a main menu allowing the user to start a new game, view the high score, or exit the game.
-
+- El juego comienza mostrando directamente a los enemigos y el score mas alto el cual deben superar
+- 
 #### Main Menu 🏠
 
 - There must be an option to start a new game.

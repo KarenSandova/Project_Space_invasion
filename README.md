@@ -155,23 +155,6 @@ The main game loop manages the flow of the game, including event detection, spri
 ### Game 🎮
 
 
-![image](https://github.com/user-attachments/assets/4506e0db-dfb8-4dcf-8d88-77a63c7bf172)
-
-
-### Installation 🛠️
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/mateo1011s/TetrisProject.git
-   cd TetrisProject
-2. **Install the required dependencies**:
-   ```sh
-   pip install -r requirements.txt
-
-### Usage
-1. **Run the main game file**:
-   ```sh
-    python main.py
 
 ### Game Controls
 

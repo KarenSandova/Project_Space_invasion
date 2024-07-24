@@ -61,6 +61,48 @@ In this version of Space Invaders, the player controls a spaceship that moves fr
 
 - The game will restart once the previous user finishes their lives or when they win. The moment this happens, it gives way to another player and the aliens will appear randomly again.
 
+#### Classes and Functions 
+
+- Spaceship: This class represents the player's spaceship.
+
+- Method __init__: Initializes the spaceship, setting its position and health.
+- Update method: Manages the movement of the spaceship, the firing of bullets, the update of the collision mask and the representation of the health bar.
+
+- Bullets: This class represents the bullets fired by the player's spaceship.
+
+- Method __init__: Initializes the bullet, setting its position.
+- Update method: Manages the movement of the bullet, the detection of collisions with aliens and the removal of the bullet if it leaves the screen.
+
+- Aliens: This class represents the enemy aliens.
+
+- Method __init__: Initializes an alien, setting its position and direction of movement.
+- Update method: Manages the alien's movement, changing its direction when it reaches a limit.
+
+- Alien_Bullets: This class represents the bullets fired by the aliens.
+
+- Method __init__: Initializes the alien bullet, setting its position.
+- Method update: Manages the movement of the bullet, the detection of collisions with the spacecraft and the reduction of the spacecraft's health in case of impact.
+
+- Explosion: This class represents an explosion that occurs when a bullet hits a target.
+
+- Method __init__: Initializes the explosion, loading a series of images for animation.
+- Update method: Manages the explosion animation and removes the explosion once the animation is complete.
+
+In addition to the classes, the code also defines several functions and variables to manage the game:
+
+- Configuration variables: clock, fps, screen_width, screen_height, font30, font40, explosion_fx, explosion2_fx, laser_fx, rows, cols, alien_cooldown, last_alien_shot, countdown, last_count, game_over, score, high_scores, red, green, white, black, bg.
+
+- Functions:
+
+- draw_bg(): Draws the background of the game.
+- draw_text(text, font, text_col, center_x, center_y): Draws text on the screen.
+- create_aliens(): Generates a grid of aliens.
+- display_start_screen(): Displays the start screen where the player enters his name.
+  
+- Sprite groups: spaceship_group, bullet_group, alien_group, alien_bullet_group, explosion_group.
+
+The main game loop manages the flow of the game, including event detection, sprite updating and drawing, collision management, and game logic such as game state and startup screen.
+
 ### Non-Functional Requirements ⚙️
 
 #### Performance 🚀

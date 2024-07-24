@@ -40,7 +40,7 @@ In this version of Space Invaders, the player controls a spaceship that moves fr
 
 #### Scoring 🏆
 
-- The game must calculate and show the score for each enemy eliminated, which will increase by 5 by 5. Once the enemy ship dies, the score obtained will be shown and compared with those of other users in order to calculate the place obtained in the game.
+- The game must calculate and show the score for each enemy eliminated.
 
 #### Game Over 💔
 
